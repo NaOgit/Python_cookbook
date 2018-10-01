@@ -5,4 +5,4 @@ Run
 
 > pip install -r requirements.txt
 
-nattinan
+natt
